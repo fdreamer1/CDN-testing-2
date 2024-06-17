@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+        <LINK REL="SHORTCUT ICON" HREF="http://www.fddreamer.com/compass.ico">
+        <title>Dreamers World</title>
+        </head>
+<body>
+<table border="" width="100%">
+  <caption></caption>
+  <colgroup>
+    <col style="width:33%">
+    <col style="width:33%">
+    <col style="width:34%">
+  </colgroup>
+  <tr>
+    <td Colspan="3"><img src="compass.jpg" alt="compass" width="90" height="90" />
+        <img src="fill.jpg" alt="compass" width="330" height="100" />
+        <img src="logo3.jpg" alt="Welcome To Dreamers World" width="700" height="100" />
+    </td>
+  </tr>
+  <tr>
+    <td Colspan="3" ><center>
+        <img src="trail1.jpg" alt="Welcome To Dreamers World" width="670" height="100" />
+        <img src="dandfilion.jpg" alt="Welcome To Dreamers World" width="209" height="100" />
+                <img src="trail2.jpg" alt="Welcome To Dreamers World" width="670" height="100" />
+    <center>
+        </td>
+  </tr>
+  <tr>
+    <td rowspan="2">
+        <center><img src="fetvid2.jpg" alt="Featured video" width="433" height="54" /><center>
+        <video width="700" height="500" controls="controls" poster= "wipeout.jpg">
+  <source src="wipeout.ogv" type="video/ogg" />
+  To see the video open this page in FireFox or Google Chrome browsers.<br>
+  Windows Explorer does not support this video format.
+</video>
+    </td>
+ <td colspan="2"><center>
+     <a href="http://fddreamer.com:4040"><img src="archives.jpg" alt="Music and Video Archives" width="209" height="50" /><a>
+        <a href="http://fddreamer.com/lil_dreamers_adventures/index.html"><img src="lildreamer.jpg" alt="Lil Dreamers Adventures" width="209" height="50" /><a>
+         <a href="http://fddreamer.com/surfingsmart/index.html"><img src="surfsmart.jpg" alt="Surfing Smart" width="209" height="50" /><a>
+        <a href="http://fddreamer.com/wikki/pmwiki.php"><img src="techwikki.jpg" alt="Technical Wikki's" width="209" height="50" /><a>
+</td>
+  </tr>
+    <td colspan="2"><font size="2">
+      <img src="compass.jpg" alt="Compass icon" width="30" height="30" />
+          <font size="6">
+          Welcome to my Playground!<br>
+          <font>
+          <font size="5">
+          This Site is a place for me to put all of my ideas together in one place.<br>
+          Between work And school, I doubt I will be able to keep this site updated.  <br>
+          But I will try.<br>
+          <br>
+          <font>
+          <font size="6" color="red">
+          <b>New Features!</b><br>
+          <font>
+          <font size="6" color="black">
+         Lil Dreamers Adventures -  <font><font size="5">come Sail with us around the Great lakes
+        and hang out with Gretchen and I on our adventures<br>
+
+          <font size="6" color="black">
+          Technical Wikki's - <font><font size="5"> A searchable collection of notes from classes and solutions to computer problems that I have encountered
+          <br>
+          <br>
+          <font>
+    </td>
+  </tr>
+</table>
+</body></html>
